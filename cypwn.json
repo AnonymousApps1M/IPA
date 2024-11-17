@@ -184,16 +184,6 @@
           "sha256": "unknown"
         },
         {
-          "absoluteVersion": "250.0",
-          "version": "250.0",
-          "buildVersion": "",
-          "date": "2024-10-20T00:00:00.000Z",
-          "localizedDescription": "placeholder",
-          "downloadURL": "https://ipa.cypwn.xyz/ipas/Revenge_250.0.ipa",
-          "size": 100663296,
-          "sha256": "unknown"
-        },
-        {
           "absoluteVersion": "228.1",
           "version": "228.1",
           "buildVersion": "",
@@ -1241,16 +1231,6 @@
           "localizedDescription": "High-speed iOS download manager!",
           "downloadURL": "https://ipa.cypwn.xyz/ipas/Gopeed-v1.5.7-ios.ipa",
           "size": 34603008,
-          "sha256": "unknown"
-        },
-        {
-          "absoluteVersion": "1.5.6",
-          "version": "1.5",
-          "buildVersion": "6",
-          "date": "2024-04-30T00:00:00.000Z",
-          "localizedDescription": "A modern download manager.",
-          "downloadURL": "https://ipa.cypwn.xyz/ipas/Gopeed_1.5.6.ipa",
-          "size": 85983232,
           "sha256": "unknown"
         }
       ],
